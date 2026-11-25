@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+*.egg-info/
+build/
+dist/
+
+# downloaded binaries, IDLs, baselines and other run output stay local
+*.so
+*.bin
+*.car
+*.jsonl
+out/
+upgrade_state.json
+*.tmp
